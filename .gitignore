@@ -12,3 +12,4 @@ __pycache__
 /dist
 /distribute-*.egg
 /python_stdnum.egg-info
+/python_stdnum_do.egg-info

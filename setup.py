@@ -40,7 +40,7 @@ with open(os.path.join(base_dir, 'README'), 'rb') as fp:
     long_description = fp.read().decode('utf-8')
 
 setup(
-    name='python-stdnum',
+    name='python-stdnum-do',
     version=stdnum.__version__,
     description='Python module to handle standardized numbers and codes',
     long_description=long_description,

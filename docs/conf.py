@@ -45,7 +45,7 @@ source_encoding = 'utf-8'
 master_doc = 'index'
 
 # General information about the project.
-project = u'python-stdnum'
+project = u'python-stdnum-do'
 copyright = u'2013-2019, Arthur de Jong'
 
 # The version info for the project you're documenting, acts as replacement for
